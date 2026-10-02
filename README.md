@@ -1,2 +1,2 @@
-# core-escape
+# core-aescape
 a game
